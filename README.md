@@ -1,6 +1,7 @@
 xbee868-simulator
 =================
 
-Simulator of XBee-Pro 868 network made in Ruby (POSIX ready, part of my bachelor thesis).
+Simulator of XBeePro-868 network made in Ruby (POSIX ready, part of my bachelor thesis).
 
-This is placeholder for opensource code when the thesis is defensed.
+Complete implementation details and usage instructions are available in
+section 3.2.6 of thesis.pdf.
